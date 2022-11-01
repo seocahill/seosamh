@@ -2,7 +2,7 @@
 
 I'm Seosamh Ó Cathail, (english: Seosamh Cahill) and I come from a small town in the west of Ireland called Ballina.
 
-I became interested in programming through video games and pc games when I a kid. We're talking pre-pentium era PCs 386, 486DX, Monkey Island II LeChuck's revenge ago - fadó.
+I became interested in programming through video games and pc games when I a kid, the pre-pentium era PCs 386, 486DX, Monkey Island II LeChuck's revenge ago - fadó.
 
 Near the end of school I got a work placement with a local tech startup called Digitome (now called Propylyon), writing SGML, some basic VB scripting and secretly downloading Doom mods in the morning before the guys got in. I really enjoyed the whole experience so I decided to study Computer Science at NUI Galway.
 
