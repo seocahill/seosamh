@@ -1,4 +1,4 @@
-# About
+# About me
 
 I'm Seosamh Ó Cathail, (english: Seosamh Cahill) and I come from a small town in the west of Ireland called Ballina.
 
