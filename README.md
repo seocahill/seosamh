@@ -14,7 +14,7 @@ I spent the first part of my working life as an accountant, I've been a software
 
 In 2011 I left Ireland, living in Canada then Germany before returning home in 2022.
 
-Ich spreche gern Deutsch, un po' di Italiano agus an teanga is áille ar dhroim na talún, an Gaeilge binn blasta.
+Ich spreche gern Deutsch, un po' di Italiano agus an teanga is áille ar dhroim na talún, an Ghaeilge bhinn bhlasta.
 
 Seosamh Ó Cathail MA CPA.
 
