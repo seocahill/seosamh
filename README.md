@@ -4,7 +4,7 @@ I'm Seosamh Ó Cathail, (english: Seosamh Cahill) and I come from a small town i
 
 I became interested in programming through video games and pc games when I a kid, these were the days of the 386 chip, the Secret of Monkey Island and the US robotics 56k modem.
 
-Near the end of school I got a work placement with a local tech firm called Digitone (now [Propylon](https://propylon.com/)), writing SGML, some basic VB scripting and secretly downloading Doom mods in the morning before the guys got in. I really enjoyed the whole experience so I decided to study Computer Science at NUI Galway.
+Near the end of school I got a work placement with a local tech firm called Digitome (now [Propylon](https://propylon.com/)), writing SGML, some basic VB scripting and secretly downloading Doom mods in the morning before the guys got in. I really enjoyed the whole experience so I decided to study Computer Science at NUI Galway.
 
 I studied for a year in Galway before moving up to Dublin, eventually attaining a masters degree in English literature from Trinity College Dublin, following another passion of mine.
 
